@@ -1,5 +1,5 @@
 #!/bin/bash -x
 
 echo "hello Avi"
-echo "from dev"
+echo "from master"
 echo "welcome github"
